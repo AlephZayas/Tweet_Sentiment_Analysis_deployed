@@ -1,2 +1,4 @@
 /datos
 /Notebooks/*.pkl
+/Notebooks/models_GRU
+/Notebooks/*.keras
